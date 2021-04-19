@@ -1,5 +1,7 @@
 # NzImageExample
 
+![screenshots](./screenshots.png)
+
 ## Bundle Sizes
 
 **Unoptimized**

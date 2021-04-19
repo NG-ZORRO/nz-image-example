@@ -1,0 +1,16 @@
+:host .images {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+:host .images {
+  margin: 0 -1em;
+}
+
+:host .images img {
+  margin: 1em;
+}
+
+:host article {
+  margin: 1em 0;
+}

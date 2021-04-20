@@ -27,7 +27,7 @@
     "@angular/router": "~11.2.10",
     "@nguniversal/express-engine": "^11.2.1",
     "express": "^4.15.2",
-    "ng-zorro-antd": "^11.5.0-beta.0",
+    "ng-zorro-antd": "^11.5.0-beta.1",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
